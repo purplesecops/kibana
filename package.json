@@ -205,7 +205,7 @@
     "copy-to-clipboard": "^3.0.8",
     "core-js": "^3.18.3",
     "cronstrue": "^1.51.0",
-    "cytoscape": "^3.10.0",
+    "cytoscape": "^3.19.1",
     "cytoscape-dagre": "^2.2.2",
     "d3": "3.5.17",
     "d3-array": "1.2.4",
